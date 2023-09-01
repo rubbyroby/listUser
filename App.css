@@ -1,0 +1,47 @@
+.App{
+  background-color:rgb(255, 255, 255);
+  width:90%;
+  margin:0 auto;
+  padding:10px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 4px;
+  box-shadow:8px rgb(134, 243, 251);
+  }
+  .child{
+  background-color:rgb(249, 204, 240);
+  width:60%;
+  margin:4px auto;
+  padding:10px;
+  border: 1px solid rgb(237, 162, 162);
+  border-radius: 4px;
+  box-shadow:8px rgb(210, 217, 208);
+}
+.post{
+  background-color:rgba(244, 102, 206, 0.473);
+  width:90%;
+  margin:2px auto;
+  padding:4px;
+  border: 1px solid rgb(153, 216, 248);
+  border-radius: 2px;
+  box-shadow:8px rgb(210, 217, 208); ;
+  }
+button{
+  border-radius: 2px;
+  border: 1px;
+  color: violet;
+  background-color: rgb(241, 21, 167);
+}
+h2{
+  color: rgb(236, 111, 111);
+}
+h3{
+  color: brown;
+}
+p{
+  color: rgb(241, 21, 167);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+h5{
+  color: brown;
+}
